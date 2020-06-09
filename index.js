@@ -1,2 +1,2 @@
-alert('Oi');
-alert('oi2');
+alert('O----i');
+alert('oai2');
